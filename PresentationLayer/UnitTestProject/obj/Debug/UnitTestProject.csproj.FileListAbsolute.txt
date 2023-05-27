@@ -1,0 +1,17 @@
+E:\Diplomski rad\PresentationLayer\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Diplomski rad\PresentationLayer\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Diplomski rad\PresentationLayer\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Diplomski rad\PresentationLayer\UnitTestProject\bin\Debug\UnitTestProject.dll
+E:\Diplomski rad\PresentationLayer\UnitTestProject\bin\Debug\UnitTestProject.pdb
+E:\Diplomski rad\PresentationLayer\UnitTestProject\bin\Debug\BusinessLayer.dll
+E:\Diplomski rad\PresentationLayer\UnitTestProject\bin\Debug\DataAccessLayer.dll
+E:\Diplomski rad\PresentationLayer\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Diplomski rad\PresentationLayer\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Diplomski rad\PresentationLayer\UnitTestProject\bin\Debug\BusinessLayer.pdb
+E:\Diplomski rad\PresentationLayer\UnitTestProject\bin\Debug\DataAccessLayer.pdb
+E:\Diplomski rad\PresentationLayer\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Diplomski rad\PresentationLayer\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Diplomski rad\PresentationLayer\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+E:\Diplomski rad\PresentationLayer\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+E:\Diplomski rad\PresentationLayer\UnitTestProject\obj\Debug\UnitTestProject.dll
+E:\Diplomski rad\PresentationLayer\UnitTestProject\obj\Debug\UnitTestProject.pdb

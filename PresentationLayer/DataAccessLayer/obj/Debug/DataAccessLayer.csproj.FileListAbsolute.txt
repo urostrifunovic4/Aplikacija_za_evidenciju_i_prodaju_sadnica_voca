@@ -1,0 +1,6 @@
+E:\Diplomski rad\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Diplomski rad\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Diplomski rad\PresentationLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Diplomski rad\PresentationLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Diplomski rad\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Diplomski rad\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

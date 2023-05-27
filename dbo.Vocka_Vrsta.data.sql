@@ -1,0 +1,18 @@
+SET IDENTITY_INSERT [dbo].[Vocka_Vrsta] ON
+INSERT INTO [dbo].[Vocka_Vrsta] ([Id], [Naziv], [Broj_godina], [Kolicina], [Cena], [Id_vocke], [Id_kupca]) VALUES (1004, N'Granny Smith', 3, 550, CAST(35.00 AS Decimal(8, 2)), 1, NULL)
+INSERT INTO [dbo].[Vocka_Vrsta] ([Id], [Naziv], [Broj_godina], [Kolicina], [Cena], [Id_vocke], [Id_kupca]) VALUES (4004, N'Granny Smith', 4, 250, CAST(42.00 AS Decimal(8, 2)), 1, NULL)
+INSERT INTO [dbo].[Vocka_Vrsta] ([Id], [Naziv], [Broj_godina], [Kolicina], [Cena], [Id_vocke], [Id_kupca]) VALUES (4005, N'Idared', 2, 250, CAST(22.00 AS Decimal(8, 2)), 1, NULL)
+INSERT INTO [dbo].[Vocka_Vrsta] ([Id], [Naziv], [Broj_godina], [Kolicina], [Cena], [Id_vocke], [Id_kupca]) VALUES (4006, N'Idared', 1, 100, CAST(22.00 AS Decimal(8, 2)), 1, NULL)
+INSERT INTO [dbo].[Vocka_Vrsta] ([Id], [Naziv], [Broj_godina], [Kolicina], [Cena], [Id_vocke], [Id_kupca]) VALUES (4007, N'Jonatan', 4, 220, CAST(27.00 AS Decimal(8, 2)), 1, NULL)
+INSERT INTO [dbo].[Vocka_Vrsta] ([Id], [Naziv], [Broj_godina], [Kolicina], [Cena], [Id_vocke], [Id_kupca]) VALUES (4008, N'Stanley', 6, 80, CAST(77.00 AS Decimal(8, 2)), 2, NULL)
+INSERT INTO [dbo].[Vocka_Vrsta] ([Id], [Naziv], [Broj_godina], [Kolicina], [Cena], [Id_vocke], [Id_kupca]) VALUES (4009, N'Valjevka', 4, 99, CAST(112.00 AS Decimal(8, 2)), 2, NULL)
+INSERT INTO [dbo].[Vocka_Vrsta] ([Id], [Naziv], [Broj_godina], [Kolicina], [Cena], [Id_vocke], [Id_kupca]) VALUES (4010, N'Karmen', 2, 500, CAST(88.00 AS Decimal(8, 2)), 3, NULL)
+INSERT INTO [dbo].[Vocka_Vrsta] ([Id], [Naziv], [Broj_godina], [Kolicina], [Cena], [Id_vocke], [Id_kupca]) VALUES (4011, N'Viljamovka', 7, 220, CAST(178.00 AS Decimal(8, 2)), 3, NULL)
+INSERT INTO [dbo].[Vocka_Vrsta] ([Id], [Naziv], [Broj_godina], [Kolicina], [Cena], [Id_vocke], [Id_kupca]) VALUES (4012, N'Vilamet', 2, 800, CAST(140.00 AS Decimal(8, 2)), 4, NULL)
+INSERT INTO [dbo].[Vocka_Vrsta] ([Id], [Naziv], [Broj_godina], [Kolicina], [Cena], [Id_vocke], [Id_kupca]) VALUES (4013, N'Sokolica', 3, 120, CAST(118.00 AS Decimal(8, 2)), 4, NULL)
+INSERT INTO [dbo].[Vocka_Vrsta] ([Id], [Naziv], [Broj_godina], [Kolicina], [Cena], [Id_vocke], [Id_kupca]) VALUES (4014, N'Darrow', 3, 280, CAST(345.00 AS Decimal(8, 2)), 5, NULL)
+INSERT INTO [dbo].[Vocka_Vrsta] ([Id], [Naziv], [Broj_godina], [Kolicina], [Cena], [Id_vocke], [Id_kupca]) VALUES (4015, N'Polar', 4, 330, CAST(392.00 AS Decimal(8, 2)), 5, NULL)
+INSERT INTO [dbo].[Vocka_Vrsta] ([Id], [Naziv], [Broj_godina], [Kolicina], [Cena], [Id_vocke], [Id_kupca]) VALUES (4016, N'Duke', 2, 600, CAST(560.00 AS Decimal(8, 2)), 6, NULL)
+INSERT INTO [dbo].[Vocka_Vrsta] ([Id], [Naziv], [Broj_godina], [Kolicina], [Cena], [Id_vocke], [Id_kupca]) VALUES (4017, N'Stela', 5, 80, CAST(466.00 AS Decimal(8, 2)), 7, NULL)
+INSERT INTO [dbo].[Vocka_Vrsta] ([Id], [Naziv], [Broj_godina], [Kolicina], [Cena], [Id_vocke], [Id_kupca]) VALUES (4018, N'Peni', 6, 65, CAST(800.00 AS Decimal(8, 2)), 7, NULL)
+SET IDENTITY_INSERT [dbo].[Vocka_Vrsta] OFF

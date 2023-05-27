@@ -1,0 +1,9 @@
+E:\Diplomski rad\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+E:\Diplomski rad\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Diplomski rad\PresentationLayer\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Diplomski rad\PresentationLayer\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Diplomski rad\PresentationLayer\BusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\Diplomski rad\PresentationLayer\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Diplomski rad\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Diplomski rad\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\Diplomski rad\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
